@@ -183,7 +183,7 @@ File Tab -> Options -> Advanced -> Image Size and Quality -> Do not compress ima
 File Tab -> Options -> Advanced -> Print -> High quality
 ```
 
-#### Q23. You have inserted s video on a slide and want the video to automaaticlly start 2 seconods after the associated slide appears. How can you accomplish this?
+#### Q23. You have inserted a video on a slide and want the video to automaaticlly start 2 seconods after the associated slide appears. How can you accomplish this?
 
 - [ ] Use playback timings.
 - [x] Use animation timings.
@@ -333,3 +333,17 @@ Personal Hint: There are multiple file suffixes for templates (.potx, .potm, .po
 - [ ] Select the icon in a SmartArt Icon Diagram.
 - [ ] Select Insert Icon and place it on top of the SmartArt Diagram.
 - [ ] Select a SmartArt shape and select Insert Icon.
+
+#### Q44. You are having trouble playing back a presentation smoothly. What should you do?
+
+- [ ] Copy the presentation to your internal hard drive.
+- [ ] Clear the **Disable hardware graphics acceleration** option.
+- [x] all of these answers
+- [ ] Select the **Show without animation** option.
+
+#### Q45. Which feature lets you configure multiple combinations of specific slides for playback from a larger slideshow?
+
+- [ ] Record Slide Show
+- [ ] Rehearse Timings
+- [x] Custom Slide Show
+- [ ] Hide Slide
